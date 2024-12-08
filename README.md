@@ -1,5 +1,6 @@
 ## Hi I'm Fan 👋
-**42 Québec student** and **Full-Stack Engineer** with over 3 years of experience in **Fintech**. Seeking a cross-cultural work environment where I can strive to utilize my diverse expertise in programming, test automation, and management.
+
+**Full-Stack Engineer** with over 3 years of experience in the Fintech industry and more than 1 year as a **Quality Assurance Engineer** in Digital Media. Currently studying at **42 Québec**, I am seeking a cross-cultural work environment where I can strive to utilize my diverse expertise in programming, test automation, and management. 
 
 🔭 I’m currently working on
 
