@@ -6,7 +6,10 @@
 
 ⚡ Fun fact:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eva81829&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva81829&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 <!--
 **eva81829/eva81829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
