@@ -4,9 +4,9 @@
 
 💻 I’m currently studying at 42 Québec, an innovative coding school that emphasizes hands-on learning through peer-to-peer collaboration and focuses on clean coding practices.
 
-🌱 I’m currently learning
+🌱 I’m currently working on projects involving C/C++, Linux, multi-process/threading, and graphics.
 
-🐠 Fun fact: I have a twin sister. When we were little, she once pushed me into a pond to steal my bread and feed the fish.
+🐠 Fun fact: I have a twin sister! When we were little, she once pushed me into a pond to steal my bread and feed the fish.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva81829&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
