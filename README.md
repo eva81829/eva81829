@@ -47,6 +47,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+## Projects Overview
+![ezgif-4-825f25a5f5](https://github.com/user-attachments/assets/98f32c36-439f-4bf0-b9de-f14639d668ab)
+
+
 <!--
 //## Projects Overview
 (GIF檔)
