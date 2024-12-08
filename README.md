@@ -48,8 +48,9 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Projects Overview
-![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
+### [StunnedCatGame](https://github.com/eva81829/StunnedCatGame)
 
+![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
 
 <!--
 //## Projects Overview
