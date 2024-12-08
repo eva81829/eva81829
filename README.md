@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning
 
-⚡ Fun fact:
+🐠 Fun fact: I have a twin sister. When we were little, she once pushed me into a pond to steal my bread and feed the fish.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva81829&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
