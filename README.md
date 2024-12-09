@@ -48,16 +48,17 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Projects Overview
-### [StunnedCatGame](https://github.com/eva81829/StunnedCatGame)
-
+### [Stunned Cat Game](https://github.com/eva81829/StunnedCatGame)
 ![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
+
+### [Dancing Queen](https://scratch.mit.edu/projects/319990090/)
+![ezgif-1-0324bf4086](https://github.com/user-attachments/assets/f5f131ce-ad4a-42c1-8ca1-859b734d924d)
+
 
 <!--
 //## Projects Overview
 (GIF檔)
 1. So long
 2. Push swap
-3. StunnedCatGame
 4. tomato clock
-5. scratch
 -->
