@@ -55,12 +55,11 @@
 ![ezgif-1-e3c1f14282](https://github.com/user-attachments/assets/4a089d47-b2de-441f-be1f-1fb861b15d90)
 
 ### [Pomodoro Timer](https://github.com/eva81829/tomato)
-
+![ezgif-3-bab8ec3207](https://github.com/user-attachments/assets/56cf7db1-1e46-41aa-bd2f-73c366666dd2)
 
 <!--
 //## Projects Overview
 (GIF檔)
 1. So long
 2. Push swap
-4. tomato clock
 -->
