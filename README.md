@@ -1,10 +1,10 @@
 ## Hi I'm Fan 👋
 
-**Full-Stack Engineer** with over 3 years of experience in the Fintech industry and more than 1 year as a **Quality Assurance Engineer** in Digital Media. I am seeking a cross-cultural work environment where I can strive to utilize my diverse expertise in programming, test automation, and management. 
+**Full-Stack Engineer** with over 3 years of experience in the Fintech industry and more than 1 year as a **Quality Assurance Engineer** in Digital Media. I am seeking a cross-cultural work environment where I can strive to utilize my diverse expertise in **programming, test automation, and management**. 
 
 💻 I’m currently studying at **42 Québec**, an innovative coding school that emphasizes hands-on learning through peer-to-peer collaboration and focuses on clean coding practices.
 
-🌱 I’m currently working on projects involving C/C++, Linux, multi-process/threading, and graphics.
+🌱 I’m currently working on projects involving **C/C++, Linux, multi-process/threading, and graphics**.
 
 🐠 Fun fact: I have a twin sister! When we were little, she once pushed me into a pond to steal my toast and feed the fish.
 
@@ -49,22 +49,22 @@
 
 ## Projects Overview
 ### [Stunned Cat](https://github.com/eva81829/StunnedCatGame)
-A side-scrolling game developed in Java featuring a beat-matching rhythm system to enhance gameplay experience.
+A side-scrolling game developed in **Java** featuring a beat-matching rhythm system to enhance gameplay experience.
 
 ![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
 
 ### [Push Swap](https://github.com/eva81829/42Quebec/tree/master/push_swap)
-Utilized the Radix Sort algorithm to sort a stack of integers with only two stacks and a limited set of operations.
+Utilized the **Radix Sort algorithm** to sort a stack of integers with only two stacks and a limited set of operations.
 
 ![ezgif-6-3383aabcb1](https://github.com/user-attachments/assets/c6f32e9a-cf94-4d4e-87e7-2c5c0827c421)
 
 ### [So Long](https://github.com/eva81829/42Quebec/tree/master/so_long)
-Created a 2D graphical game in C using the MinilibX library and implemented the Union-Find algorithm for efficient pathfinding.
+Created a 2D graphical game in **C** using the **MinilibX library** and implemented the **Union-Find algorithm** for efficient pathfinding.
 
 ![ezgif-7-c5c5dd0910](https://github.com/user-attachments/assets/9883b47c-9778-4e8d-8f41-8167d8f29eaf)
 
 ### [Pomodoro Timer](https://github.com/eva81829/tomato)
-An Android app developed from scratch, featuring an alarm system based on the Pomodoro Technique, with NFC tags to stop the ringing and prompt users to take breaks.
+An **Android app** developed from scratch, featuring an alarm system based on the **Pomodoro Technique**, with **NFC tags** to stop the ringing and prompt users to take breaks.
 
 ![ezgif-3-bab8ec3207](https://github.com/user-attachments/assets/56cf7db1-1e46-41aa-bd2f-73c366666dd2)
 
