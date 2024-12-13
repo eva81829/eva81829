@@ -59,6 +59,8 @@ Utilized the Radix Sort algorithm to sort a stack of integers with only two stac
 ![ezgif-6-3383aabcb1](https://github.com/user-attachments/assets/c6f32e9a-cf94-4d4e-87e7-2c5c0827c421)
 
 ### [So Long](https://github.com/eva81829/42Quebec/tree/master/so_long)
+Created a 2D graphical game in C using the MinilibX library and implemented the Union-Find algorithm for efficient pathfinding.
+
 ![ezgif-7-c5c5dd0910](https://github.com/user-attachments/assets/9883b47c-9778-4e8d-8f41-8167d8f29eaf)
 
 ### [Pomodoro Timer](https://github.com/eva81829/tomato)
