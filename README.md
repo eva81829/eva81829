@@ -69,6 +69,8 @@ An **Android app** developed from scratch, featuring an alarm system based on th
 ![ezgif-3-bab8ec3207](https://github.com/user-attachments/assets/56cf7db1-1e46-41aa-bd2f-73c366666dd2)
 
 ### [Dancing Queen](https://scratch.mit.edu/projects/319990090/)
+Using **trigonometric functions** to calculate the angle between characters based on their coordinate difference, the AI character can continuously detect the player's position and adjust its movement accordingly. This system was developed on the **Scratch**.
+
 ![ezgif-1-e3c1f14282](https://github.com/user-attachments/assets/4a089d47-b2de-441f-be1f-1fb861b15d90)
 
 <!--
