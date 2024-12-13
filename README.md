@@ -64,6 +64,8 @@ Created a 2D graphical game in C using the MinilibX library and implemented the 
 ![ezgif-7-c5c5dd0910](https://github.com/user-attachments/assets/9883b47c-9778-4e8d-8f41-8167d8f29eaf)
 
 ### [Pomodoro Timer](https://github.com/eva81829/tomato)
+An Android app developed from scratch, featuring an alarm system based on the Pomodoro Technique, with NFC tags to stop the ringing and prompt users to take breaks.
+
 ![ezgif-3-bab8ec3207](https://github.com/user-attachments/assets/56cf7db1-1e46-41aa-bd2f-73c366666dd2)
 
 ### [Dancing Queen](https://scratch.mit.edu/projects/319990090/)
