@@ -49,9 +49,13 @@
 
 ## Projects Overview
 ### [Stunned Cat](https://github.com/eva81829/StunnedCatGame)
+A side-scrolling game developed in Java featuring a beat-matching rhythm system to enhance gameplay experience.
+
 ![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
 
 ### [Push Swap](https://github.com/eva81829/42Quebec/tree/master/push_swap)
+Utilized the Radix Sort algorithm to sort a stack of integers with only two stacks and a limited set of operations.
+
 ![ezgif-6-3383aabcb1](https://github.com/user-attachments/assets/c6f32e9a-cf94-4d4e-87e7-2c5c0827c421)
 
 ### [So Long](https://github.com/eva81829/42Quebec/tree/master/so_long)
