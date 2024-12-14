@@ -49,7 +49,7 @@
 
 ## Projects Overview
 ### [Stunned Cat](https://github.com/eva81829/StunnedCatGame)
-A side-scrolling game developed in **Java** featuring a beat-matching rhythm system to enhance gameplay experience. Responsible for creating objects on the map by reading from a txt file and developing the rhythm system, including beat detection and keypress results.
+A side-scrolling game developed in **Java** featuring a beat-matching rhythm system to enhance gameplay experience. Responsible for creating objects on the map by reading from txt files and developing the rhythm system, including beat detection and keypress results.
 
 ![ezgif-1-81ade7504f](https://github.com/user-attachments/assets/ef54535d-ae3c-4caf-977a-192417881077)
 
