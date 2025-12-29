@@ -2,9 +2,9 @@
 
 **Full-Stack Engineer** with over 3 years of experience in the Fintech industry and more than 1 year as a **Quality Assurance Engineer** in Digital Media. I am seeking a cross-cultural work environment where I can strive to utilize my diverse expertise in **programming, test automation, and management**. 
 
-💻 I’m currently studying at **42 Québec**, an innovative coding school that emphasizes hands-on learning through peer-to-peer collaboration and focuses on clean coding practices.
+💻 I studied at **42 Québec**, an innovative coding school that emphasizes hands-on learning through peer-to-peer collaboration and focuses on clean coding practices.
 
-🌱 I’m currently working on projects involving **C/C++, Linux, multi-process/threading, and graphics**.
+🌱 I worked on projects involving **C/C++, Linux, multi-process/threading, and graphics**.
 
 🐠 Fun fact: I have a twin sister! When we were little, she once pushed me into a pond to steal my toast and feed the fish.
 
