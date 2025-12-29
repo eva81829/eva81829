@@ -8,9 +8,6 @@
 
 🐠 Fun fact: I have a twin sister! When we were little, she once pushed me into a pond to steal my toast and feed the fish.
 
-## Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva81829&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Tech Stack
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
